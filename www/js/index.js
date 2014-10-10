@@ -4,10 +4,10 @@ var app = {
   progressDialog: document.getElementById("progressDialog"),
   spinner: document.getElementById("spinner"),
   weinre: {
-    enabled: true,
-    ip: 'http://192.168.1.13',
-    port: '9090',
-    targetApp: 'c3Sf1RzCWE8SZKnGTs8w2gTxVYJBGbAEgIsJBNoji0g'
+    enabled: false,
+    ip: '', // ex. http://192.168.1.13
+    port: '', // ex. 9090
+    targetApp: '' // ex. see weinre docs
   },
   
   // Application Constructor
