@@ -4,13 +4,11 @@
   <description>
     A sample application Apache Cordova application with Admob ads integrated.
   </description>
-  <author email="info@appfeel.com" href="https://github.com/appfeel/admob-google-cordova">
-    AppFeel Team
-  </author>
+  <author email="info@appfeel.com" href="https://github.com/appfeel/admob-google-cordova">AppFeel</author>
   <content src="index.html" />
   <access origin="*" />
   <preference name="LogLevel" value="VERBOSE"/>
-  <preference name="debuggable" value="true"/>an
+  <preference name="debuggable" value="true"/>
   
   <icon src="res/appFeel-512.png" />
   
