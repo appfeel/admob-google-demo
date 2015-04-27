@@ -110,7 +110,7 @@ var app = {
       document.head.appendChild(weinre);
     }
     
-    if (admob) {
+    if (window.admob) {
       console.log('Binding ad events...');
       app.bindAdEvents();
       console.log('Initializing ads...');
