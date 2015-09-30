@@ -7,10 +7,10 @@ This is a demo project for [Cordova and Phonegap AdMob plugin](https://github.co
 git clone https://github.com/appfeel/admob-google-cophodemo.git AdmobAdsTest
 ```
 
-- Add com.admob.google plugin to the project:
+- Add cordova-admob plugin to the project:
 ````
 cd AdmobAdsTest
-cordova plugin add com.admob.google
+cordova plugin add cordova-admob
 ```
 
 - Add platforms to the project:
