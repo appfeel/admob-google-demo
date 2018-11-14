@@ -2,9 +2,9 @@ This is a demo project for [Cordova and Phonegap AdMob plugin](https://github.co
 
 # Instructions:
 
-- [Download zip](https://github.com/appfeel/admob-google-cophodemo/archive/master.zip) project or clone it via git CLI:
+- [Download zip](https://github.com/appfeel/admob-google-demo.git/archive/master.zip) project or clone it via git CLI:
 ```
-git clone https://github.com/appfeel/admob-google-cophodemo.git AdmobAdsTest
+git clone https://github.com/appfeel/admob-google-demo.git AdmobAdsTest
 ```
 
 - Add cordova-admob plugin to the project:
