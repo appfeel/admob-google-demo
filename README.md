@@ -8,18 +8,21 @@ git clone https://github.com/appfeel/admob-google-demo.git AdmobAdsTest
 ```
 
 - Add cordova-admob plugin to the project:
-````
+
+```
 cd AdmobAdsTest
 cordova plugin add cordova-admob
 ```
 
 - Add platforms to the project:
+
 ```
 cordova platform add ios android
 ```
 
 - Emulate the application:
-````
+
+```
 cordova emulate android
 cordova emulate ios
-````
+```
